@@ -1,5 +1,5 @@
 AI as a tool- Data synthesis Project: Blackhole Data synthesis PROJECT
-Researcher and data synthesizer: Vukkadapu Aryan Reddy
+The Mind & Executioner behind the project: Vukkadapu Aryan Reddy
 
 ###THIS PROJECT CONSISTS 
 1. 215 PAGES OF DATA collected from AI-as-a-tool by using my own method to extract data.
