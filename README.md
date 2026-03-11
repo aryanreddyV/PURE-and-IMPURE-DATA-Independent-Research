@@ -3,7 +3,7 @@ The Mind & Executioner behind the project: Vukkadapu Aryan Reddy
 
 (THIS WHOLE REPOSITORY & PROJECT & THE IDEAS, PURPOSE, METHODOLOGY, SOLUTION: ALL ARE MY OWN THOUGHT, CREATION, & OPINION)
 I WHOLEHEARTEDLY PROMISE THAT I TOOK NO "GUIDANCE OR KNOWLEDGE FROM SOMEONE ELSE" AND I WAS ABLE TO DO ALL OF THIS ON MY OWN. 
-AS PROOF, YOU CAN SEE MY PROJECT PROOF OF WORK: DATA COLLECTED FROM AI BY USING MY METHOD, AND THE FILES IN THIS REPOSITY.
+AS PROOF, YOU CAN SEE MY PROJECT PROOF OF WORK: DATA COLLECTED FROM AI BY USING MY METHOD, AND THE FILES IN THIS REPOSITORY.
 
 This is a very simple, yet meaningful project. Which might even make the world better than today.
 I went from curiosity of blackholes->idea of the project-> Thought and Methodology-> execution of the project-> purpose-> solution for impure data....
